@@ -254,6 +254,22 @@
         "type": "color",
         "description": "Same documentation"
       }
+    },
+    "border-radius-none": {
+      "value": "0px",
+      "type": "borderRadius"
+    },
+    "border-radius-small": {
+      "value": "4px",
+      "type": "borderRadius"
+    },
+    "border-radius-medium": {
+      "value": "$space.small",
+      "type": "borderRadius"
+    },
+    "border-radius-full": {
+      "value": "$space.medium * 6.25",
+      "type": "borderRadius"
     }
   }
 }
