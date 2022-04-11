@@ -155,6 +155,16 @@
         "value": "none",
         "type": "textDecoration"
       }
+    },
+    "global": {
+      "dark": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "light": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
     }
   }
 }
