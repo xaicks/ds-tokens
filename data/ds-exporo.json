@@ -167,6 +167,20 @@
     "small": {
       "value": "8",
       "type": "sizing"
+    },
+    "space": {
+      "large": {
+        "value": "$large",
+        "type": "spacing"
+      },
+      "medium": {
+        "value": "$medium",
+        "type": "spacing"
+      },
+      "small": {
+        "value": "$small",
+        "type": "spacing"
+      }
     }
   }
 }
