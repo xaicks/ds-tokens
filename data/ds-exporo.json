@@ -2,11 +2,11 @@
   "global": {
     "colour": {
       "primary": {
-        "value": "#1ac1f5",
+        "value": "#1bf526",
         "type": "color"
       },
       "secondary": {
-        "value": "#ff28ea",
+        "value": "#06792e",
         "type": "color"
       }
     },
