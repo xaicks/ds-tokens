@@ -242,6 +242,18 @@
         "value": "$small",
         "type": "spacing"
       }
+    },
+    "global": {
+      "light": {
+        "value": "#FFFFFF",
+        "type": "color",
+        "description": "Description added to documentate the colors between files"
+      },
+      "dark": {
+        "value": "#000000",
+        "type": "color",
+        "description": "Same documentation"
+      }
     }
   }
 }
