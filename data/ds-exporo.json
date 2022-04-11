@@ -155,6 +155,18 @@
         "value": "none",
         "type": "textDecoration"
       }
+    },
+    "large": {
+      "value": "32",
+      "type": "sizing"
+    },
+    "medium": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "small": {
+      "value": "8",
+      "type": "sizing"
     }
   }
 }
