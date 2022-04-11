@@ -11,8 +11,8 @@
       }
     },
     "fontFamilies": {
-      "roboto": {
-        "value": "Roboto",
+      "primary": {
+        "value": "Montserrat",
         "type": "fontFamilies"
       }
     },
@@ -63,7 +63,7 @@
         "H1": {
           "regular": {
             "value": {
-              "fontFamily": "$fontFamilies.roboto",
+              "fontFamily": "{fontFamilies.primary}",
               "fontWeight": "$fontWeights.roboto-0",
               "lineHeight": "$lineHeights.0",
               "fontSize": "$fontSize.1",
@@ -76,7 +76,7 @@
           },
           "black": {
             "value": {
-              "fontFamily": "$fontFamilies.roboto",
+              "fontFamily": "{fontFamilies.primary}",
               "fontWeight": "$fontWeights.roboto-1",
               "lineHeight": "$lineHeights.0",
               "fontSize": "$fontSize.1",
@@ -89,7 +89,7 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "$fontFamilies.roboto",
+              "fontFamily": "{fontFamilies.primary}",
               "fontWeight": "$fontWeights.roboto-2",
               "lineHeight": "$lineHeights.0",
               "fontSize": "$fontSize.1",
@@ -104,7 +104,7 @@
         "h5": {
           "black": {
             "value": {
-              "fontFamily": "$fontFamilies.roboto",
+              "fontFamily": "{fontFamilies.primary}",
               "fontWeight": "$fontWeights.roboto-1",
               "lineHeight": "$lineHeights.0",
               "fontSize": "$fontSize.0",
@@ -117,7 +117,7 @@
           },
           "bold": {
             "value": {
-              "fontFamily": "$fontFamilies.roboto",
+              "fontFamily": "{fontFamilies.primary}",
               "fontWeight": "$fontWeights.roboto-2",
               "lineHeight": "$lineHeights.0",
               "fontSize": "$fontSize.0",
@@ -130,7 +130,7 @@
           },
           "regular": {
             "value": {
-              "fontFamily": "$fontFamilies.roboto",
+              "fontFamily": "{fontFamilies.primary}",
               "fontWeight": "$fontWeights.roboto-0",
               "lineHeight": "$lineHeights.0",
               "fontSize": "$fontSize.0",
