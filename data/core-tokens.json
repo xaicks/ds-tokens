@@ -3,7 +3,8 @@
     "primary": {
       "100": {
         "value": "#e3daf1",
-        "type": "color"
+        "type": "color",
+        "description": "#E3DAF1"
       },
       "200": {
         "value": "#c6b5e3",
@@ -462,6 +463,398 @@
         "value": "#fefae6",
         "type": "color",
         "description": "#FEFAE6"
+      }
+    },
+    "background": {
+      "background-action": {
+        "value": "#5b3894",
+        "type": "color",
+        "description": "background-action : content-on-action\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-action-hover": {
+        "value": "#aa90d5",
+        "type": "color",
+        "description": "background-action-hover : content-on-action-hover\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-action-subtle": {
+        "value": "#f1edf8",
+        "type": "color",
+        "description": "background-action-subtle : content-on-action-subtle\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-action-subtle-hover": {
+        "value": "#c6b5e3",
+        "type": "color",
+        "description": "background-action-subtle-hover : content-on-action-subtle-hover\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-disabled": {
+        "value": "#f2f2f2",
+        "type": "color",
+        "description": "background-disabled: content-on-disabled\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ❌ Pass\nLevel AAA - ❌ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-info": {
+        "value": "#808080",
+        "type": "color"
+      },
+      "background-info-subtle": {
+        "value": "#b3b3b3",
+        "type": "color",
+        "description": "background-info: content-on-info\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ❌ Pass\nLevel AAA - ❌ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-input": {
+        "value": "#f2f2f2",
+        "type": "color",
+        "description": "background-input : content-on-input\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-input-hover": {
+        "value": "#cccccc",
+        "type": "color",
+        "description": "background-input-hover : content-on-input-hover\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-input-selected": {
+        "value": "#e6e6e6",
+        "type": "color",
+        "description": "background-input-selected : content-on-selected\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-negative": {
+        "value": "#b1261b",
+        "type": "color",
+        "description": "background-negative : content-on-negative\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-negative-active": {
+        "value": "#f1aca7",
+        "type": "color",
+        "description": "background-negative-active : content-on-negative-active\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-negative-hover": {
+        "value": "#e4594e",
+        "type": "color",
+        "description": "background-negative-hover : content-on-negative-hover\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-negative-subtle": {
+        "value": "#fceae9",
+        "type": "color",
+        "description": "background-negative-subtle : content-on-negative-subtle\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-negative-subtle-hover": {
+        "value": "#e4594e",
+        "type": "color",
+        "description": "background-negative-subtle-hover : content-on-negative-subtle-hover\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-overlay": {
+        "value": "#4d4d4d",
+        "type": "color"
+      },
+      "background-overlay-subtle": {
+        "value": "#cccccc",
+        "type": "color"
+      },
+      "background-positive": {
+        "value": "#23a96c",
+        "type": "color",
+        "description": "background-positive: content-on-positive\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-positive-active": {
+        "value": "#aaeecf",
+        "type": "color",
+        "description": "background-positive-active: content-on-positive-active\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-positive-hover": {
+        "value": "#56dc9f",
+        "type": "color",
+        "description": "background-positive-hover: content-on-positive-hover\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-positive-subtle": {
+        "value": "#56dc9f",
+        "type": "color",
+        "description": "background-positive-subtle: content-on-positive-subtle\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-primary": {
+        "value": "#7246b9",
+        "type": "color",
+        "description": "background-primary: content-on-primary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-primary-container": {
+        "value": "#fcfbfe",
+        "type": "color",
+        "description": "background-primary-container: content-on-primary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-progress": {
+        "value": "#c6b5e3",
+        "type": "color"
+      },
+      "background-secondary": {
+        "value": "#6614eb",
+        "type": "color",
+        "description": "background-secondary: content-on-secondary\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-secondary-container": {
+        "value": "#f0e8fd",
+        "type": "color",
+        "description": "background-secondary-container: content-on-secondary-container\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-spinner": {
+        "value": "#5b3894",
+        "type": "color"
+      },
+      "background-spinner-subtle": {
+        "value": "#aa90d5",
+        "type": "color"
+      },
+      "background-surface": {
+        "value": "#f2f2f2",
+        "type": "color",
+        "description": "background-surface: content-on-surface\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-surface-alt": {
+        "value": "#fcfcfc",
+        "type": "color"
+      },
+      "background-warning": {
+        "value": "#c5a607",
+        "type": "color",
+        "description": "background-warning: content-on-warning\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-warning-hover": {
+        "value": "#fbec9d",
+        "type": "color",
+        "description": "background-warning-hover: content-on-warning-hover\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      },
+      "background-warning-subtle": {
+        "value": "#fdf6ce",
+        "type": "color",
+        "description": "background-warning-subtle: content-on-warning-subtle\n\nRegular text:\nLevel AA - ✅ Pass\nLevel AAA - ❌ Pass\n\nLarge text:\nLevel AA - ✅ Pass\nLevel AAA - ✅ Pass\n\nIcons:\nLevel AA - ✅ Pass"
+      }
+    },
+    "border": {
+      "border-action": {
+        "value": "#442a6f",
+        "type": "color"
+      },
+      "border-action-focus": {
+        "value": "#aa90d5",
+        "type": "color"
+      },
+      "border-action-hover": {
+        "value": "#2d1c4a",
+        "type": "color"
+      },
+      "border-action-subtle": {
+        "value": "#f1edf8",
+        "type": "color"
+      },
+      "border-disabled": {
+        "value": "#e6e6e6",
+        "type": "color"
+      },
+      "border-info": {
+        "value": "#666666",
+        "type": "color"
+      },
+      "border-info-subtle": {
+        "value": "#999999",
+        "type": "color"
+      },
+      "border-input": {
+        "value": "#e6e6e6",
+        "type": "color"
+      },
+      "border-input-hover": {
+        "value": "#999999",
+        "type": "color"
+      },
+      "border-input-selected": {
+        "value": "#4d4d4d",
+        "type": "color"
+      },
+      "border-negative": {
+        "value": "#b1261b",
+        "type": "color"
+      },
+      "border-negative-focus": {
+        "value": "#851c14",
+        "type": "color"
+      },
+      "border-negative-subtle": {
+        "value": "#e4594e",
+        "type": "color"
+      },
+      "border-positive": {
+        "value": "#1a7f51",
+        "type": "color"
+      },
+      "border-positive-subtle": {
+        "value": "#80e5b7",
+        "type": "color"
+      },
+      "border-separator": {
+        "value": "#f2f2f2",
+        "type": "color"
+      },
+      "border-warning": {
+        "value": "#c5a607",
+        "type": "color"
+      },
+      "border-warning-subtle": {
+        "value": "#fbec9d",
+        "type": "color"
+      }
+    },
+    "content": {
+      "content-action": {
+        "value": "#5b3894",
+        "type": "color"
+      },
+      "content-allways-dark": {
+        "value": "#4d4d4d",
+        "type": "color"
+      },
+      "content-allways-light": {
+        "value": "#fcfcfc",
+        "type": "color"
+      },
+      "content-disabled": {
+        "value": "#cccccc",
+        "type": "color"
+      },
+      "content-link": {
+        "value": "#5b3894",
+        "type": "color"
+      },
+      "content-link-hover": {
+        "value": "#8e6bc7",
+        "type": "color"
+      },
+      "content-link-visited": {
+        "value": "#7246b9",
+        "type": "color"
+      },
+      "content-negative": {
+        "value": "#b1261b",
+        "type": "color"
+      },
+      "content-on-action": {
+        "value": "#f1edf8",
+        "type": "color"
+      },
+      "content-on-action-hover": {
+        "value": "#2d1c4a",
+        "type": "color"
+      },
+      "content-on-action-subtle": {
+        "value": "#5b3894",
+        "type": "color"
+      },
+      "content-on-action-subtle-hover": {
+        "value": "#2d1c4a",
+        "type": "color"
+      },
+      "content-on-disabled": {
+        "value": "#808080",
+        "type": "color"
+      },
+      "content-on-info": {
+        "value": "#fcfcfc",
+        "type": "color"
+      },
+      "content-on-input": {
+        "value": "#4d4d4d",
+        "type": "color"
+      },
+      "content-on-input-hover": {
+        "value": "#4d4d4d",
+        "type": "color"
+      },
+      "content-on-input-selected": {
+        "value": "#4d4d4d",
+        "type": "color"
+      },
+      "content-on-negative": {
+        "value": "#f8d5d3",
+        "type": "color"
+      },
+      "content-on-negative-active": {
+        "value": "#2c0907",
+        "type": "color"
+      },
+      "content-on-negative-hover": {
+        "value": "#2c0907",
+        "type": "color"
+      },
+      "content-on-negative-subtle": {
+        "value": "#851c14",
+        "type": "color"
+      },
+      "content-on-negative-subtle-hover": {
+        "value": "#2c0907",
+        "type": "color"
+      },
+      "content-on-positive": {
+        "value": "#092a1b",
+        "type": "color"
+      },
+      "content-on-positive-active": {
+        "value": "#115536",
+        "type": "color"
+      },
+      "content-on-positive-hover": {
+        "value": "#115536",
+        "type": "color"
+      },
+      "content-on-positive-subtle": {
+        "value": "#115536",
+        "type": "color"
+      },
+      "content-on-primary": {
+        "value": "#f1edf8",
+        "type": "color"
+      },
+      "content-on-primary-container": {
+        "value": "#442a6f",
+        "type": "color"
+      },
+      "content-on-secondary": {
+        "value": "#e3daf1",
+        "type": "color"
+      },
+      "content-on-secondary-container": {
+        "value": "#3d0c8d",
+        "type": "color"
+      },
+      "content-on-surface": {
+        "value": "#333333",
+        "type": "color"
+      },
+      "content-on-warning": {
+        "value": "#312a02",
+        "type": "color"
+      },
+      "content-on-warning-hover": {
+        "value": "#625304",
+        "type": "color"
+      },
+      "content-on-warning-subtle": {
+        "value": "#625304",
+        "type": "color"
+      },
+      "content-placeholder": {
+        "value": "#b3b3b3",
+        "type": "color"
+      },
+      "content-positive": {
+        "value": "#23a96c",
+        "type": "color"
+      },
+      "content-primary": {
+        "value": "#7246b9",
+        "type": "color"
+      },
+      "content-secondary": {
+        "value": "#6614eb",
+        "type": "color"
+      },
+      "content-warning": {
+        "value": "#c5a607",
+        "type": "color"
       }
     }
   }
