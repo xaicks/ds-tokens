@@ -959,5 +959,19 @@
       }
     }
   },
+  "light": {
+    "theme": {
+      "bg": {
+        "background-surface": {
+          "value": "$neutral.050",
+          "type": "color"
+        },
+        "background-surface-alt": {
+          "value": "$neutral.001",
+          "type": "color"
+        }
+      }
+    }
+  },
   "$themes": []
 }
