@@ -1228,8 +1228,12 @@
           "value": "$positive.800",
           "type": "color"
         },
+        "content-on-positive-subtle-hover": {
+          "value": "$positive.900",
+          "type": "color"
+        },
         "content-on-positive-subtle": {
-          "value": "$positive.600",
+          "value": "$positive.800",
           "type": "color"
         },
         "content-on-info": {
