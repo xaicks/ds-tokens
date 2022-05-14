@@ -1253,7 +1253,7 @@
           "type": "color"
         },
         "content-on-input-hover": {
-          "value": "$neutral.500",
+          "value": "$neutral.900",
           "type": "color"
         },
         "content-on-input-selected": {
