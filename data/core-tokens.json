@@ -1209,7 +1209,15 @@
           "type": "color"
         },
         "content-on-warning-subtle": {
-          "value": "$warning.600",
+          "value": "$warning.900",
+          "type": "color"
+        },
+        "content-on-warning-active": {
+          "value": "$warning.700",
+          "type": "color"
+        },
+        "content-on-warning-subtle-hover": {
+          "value": "$warning.900",
           "type": "color"
         },
         "content-positive": {
