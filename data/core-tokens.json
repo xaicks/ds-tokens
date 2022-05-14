@@ -969,6 +969,366 @@
         "background-surface-alt": {
           "value": "$neutral.001",
           "type": "color"
+        },
+        "background-overlay": {
+          "value": "$neutral.700",
+          "type": "color"
+        },
+        "background-overlay-subtle": {
+          "value": "$neutral.200",
+          "type": "color"
+        },
+        "background-disabled": {
+          "value": "$neutral.050",
+          "type": "color"
+        },
+        "background-action": {
+          "value": "$primary.600",
+          "type": "color"
+        },
+        "background-action-hover": {
+          "value": "$primary.300",
+          "type": "color"
+        },
+        "background-action-subtle": {
+          "value": "$primary.050",
+          "type": "color"
+        },
+        "background-action-subtle-hover": {
+          "value": "$primary.200",
+          "type": "color"
+        },
+        "background-input": {
+          "value": "$neutral.050",
+          "type": "color"
+        },
+        "background-input-hover": {
+          "value": "$neutral.200",
+          "type": "color"
+        },
+        "background-input-selected": {
+          "value": "$neutral.100",
+          "type": "color"
+        },
+        "background-primary": {
+          "value": "$primary.500",
+          "type": "color"
+        },
+        "background-primary-container": {
+          "value": "$primary.100",
+          "type": "color"
+        },
+        "background-secondary": {
+          "value": "$secondary.500",
+          "type": "color"
+        },
+        "background-secondary-container": {
+          "value": "$secondary.050",
+          "type": "color"
+        },
+        "background-progress": {
+          "value": "$primary.200",
+          "type": "color"
+        },
+        "background-spinner": {
+          "value": "$primary.600",
+          "type": "color"
+        },
+        "background-spinner-subtle": {
+          "value": "$primary.300",
+          "type": "color"
+        },
+        "background-negative": {
+          "value": "$error.600",
+          "type": "color"
+        },
+        "background-negative-hover": {
+          "value": "$error.400",
+          "type": "color"
+        },
+        "background-negative-active": {
+          "value": "$error.200",
+          "type": "color"
+        },
+        "background-negative-subtle": {
+          "value": "$error.050",
+          "type": "color"
+        },
+        "background-negative-subtle-hover": {
+          "value": "$error.400",
+          "type": "color"
+        },
+        "background-positive": {
+          "value": "$positive.600",
+          "type": "color"
+        },
+        "background-positive-hover": {
+          "value": "$positive.400",
+          "type": "color"
+        },
+        "background-positive-active": {
+          "value": "$positive.200",
+          "type": "color"
+        },
+        "background-positive-subtle": {
+          "value": "$positive.400",
+          "type": "color"
+        },
+        "background-positive-subtle-hover": {
+          "value": "$positive.600",
+          "type": "color"
+        },
+        "background-warning": {
+          "value": "$warning.400",
+          "type": "color"
+        },
+        "background-warning-hover": {
+          "value": "$warning.200",
+          "type": "color"
+        },
+        "background-warning-active": {
+          "value": "$warning.200",
+          "type": "color"
+        },
+        "background-warning-subtle": {
+          "value": "$warning.500",
+          "type": "color"
+        },
+        "background-warning-subtle-hover": {
+          "value": "$warning.600",
+          "type": "color"
+        }
+      },
+      "content": {
+        "content-primary": {
+          "value": "$primary.500",
+          "type": "color"
+        },
+        "content-on-primary": {
+          "value": "$primary.050",
+          "type": "color"
+        },
+        "content-on-primary-container": {
+          "value": "$primary.700",
+          "type": "color"
+        },
+        "content-secondary": {
+          "value": "$secondary.500",
+          "type": "color"
+        },
+        "content-on-secondary": {
+          "value": "$secondary.100",
+          "type": "color"
+        },
+        "content-on-secondary-container": {
+          "value": "$secondary.700",
+          "type": "color"
+        },
+        "content-on-surface": {
+          "value": "$primary.800",
+          "type": "color"
+        },
+        "content-action": {
+          "value": "$primary.600",
+          "type": "color"
+        },
+        "content-on-action": {
+          "value": "$primary.050",
+          "type": "color"
+        },
+        "content-on-action-hover": {
+          "value": "$primary.800",
+          "type": "color"
+        },
+        "content-on-action-subtle": {
+          "value": "$primary.600",
+          "type": "color"
+        },
+        "content-on-action-subtle-hover": {
+          "value": "$primary.800",
+          "type": "color"
+        },
+        "content-on-placeholder": {
+          "value": "$neutral.300",
+          "type": "color"
+        },
+        "content-disabled": {
+          "value": "$neutral.200",
+          "type": "color"
+        },
+        "content-on-disabled": {
+          "value": "$neutral.500",
+          "type": "color"
+        },
+        "content-link": {
+          "value": "$primary.600",
+          "type": "color"
+        },
+        "content-link-hover": {
+          "value": "$primary.400",
+          "type": "color"
+        },
+        "content-link-visited": {
+          "value": "$primary.500",
+          "type": "color"
+        },
+        "content-negative": {
+          "value": "$error.600",
+          "type": "color"
+        },
+        "content-on-negative": {
+          "value": "$error.100",
+          "type": "color"
+        },
+        "content-on-negative-active": {
+          "value": "$error.900",
+          "type": "color"
+        },
+        "content-on-negative-hover": {
+          "value": "$error.900",
+          "type": "color"
+        },
+        "content-on-negative-subtle": {
+          "value": "$error.700",
+          "type": "color"
+        },
+        "content-on-negative-subtle-hover": {
+          "value": "$error.900",
+          "type": "color"
+        },
+        "content-warning": {
+          "value": "$warning.600",
+          "type": "color"
+        },
+        "content-on-warning": {
+          "value": "$warning.900",
+          "type": "color"
+        },
+        "content-on-warning-hover": {
+          "value": "$warning.800",
+          "type": "color"
+        },
+        "content-on-warning-subtle": {
+          "value": "$warning.600",
+          "type": "color"
+        },
+        "content-positive": {
+          "value": "$positive.600",
+          "type": "color"
+        },
+        "content-on-positive": {
+          "value": "$positive.900",
+          "type": "color"
+        },
+        "content-on-positive-hover": {
+          "value": "$positive.800",
+          "type": "color"
+        },
+        "content-on-positive-active": {
+          "value": "$positive.800",
+          "type": "color"
+        },
+        "content-on-positive-subtle": {
+          "value": "$positive.600",
+          "type": "color"
+        },
+        "content-on-info": {
+          "value": "$neutral.001",
+          "type": "color"
+        },
+        "content-on-input": {
+          "value": "$neutral.700",
+          "type": "color"
+        },
+        "content-on-input-hover": {
+          "value": "$neutral.500",
+          "type": "color"
+        },
+        "content-on-input-selected": {
+          "value": "$neutral.600",
+          "type": "color"
+        },
+        "content-always-light": {
+          "value": "$neutral.001",
+          "type": "color"
+        },
+        "content-always-dark": {
+          "value": "$neutral.900",
+          "type": "color"
+        }
+      },
+      "border": {
+        "border-separator": {
+          "value": "$neutral.050",
+          "type": "color"
+        },
+        "border-input": {
+          "value": "$neutral.100",
+          "type": "color"
+        },
+        "border-input-hover": {
+          "value": "$neutral.400",
+          "type": "color"
+        },
+        "border-input-selected": {
+          "value": "$neutral.700",
+          "type": "color"
+        },
+        "border-action": {
+          "value": "$primary.700",
+          "type": "color"
+        },
+        "border-action-hover": {
+          "value": "$primary.900",
+          "type": "color"
+        },
+        "border-action-focus": {
+          "value": "$primary.800",
+          "type": "color"
+        },
+        "border-action-subtle": {
+          "value": "$primary.050",
+          "type": "color"
+        },
+        "border-disabled": {
+          "value": "$neutral.300",
+          "type": "color"
+        },
+        "border-negative": {
+          "value": "$error.600",
+          "type": "color"
+        },
+        "border-negative-subtle": {
+          "value": "$error.300",
+          "type": "color"
+        },
+        "border-negative-focus": {
+          "value": "$error.700",
+          "type": "color"
+        },
+        "border-warning": {
+          "value": "$warning.600",
+          "type": "color"
+        },
+        "border-warning-subtle": {
+          "value": "$warning.200",
+          "type": "color"
+        },
+        "border-positive": {
+          "value": "$positive.700",
+          "type": "color"
+        },
+        "border-positive-subtle": {
+          "value": "$positive.300",
+          "type": "color"
+        },
+        "border-info": {
+          "value": "$neutral.600",
+          "type": "color"
+        },
+        "border-info-subtle": {
+          "value": "$neutral.300",
+          "type": "color"
         }
       }
     }
